@@ -1,0 +1,14 @@
+{
+  "name": "vodafone-stock-checker",
+  "version": "1.0.0",
+  "description": "Thin application to hold 'stock-checker' coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
